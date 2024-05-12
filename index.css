@@ -2,6 +2,9 @@
     background-color: darkslategrey;
     width: 330px;
     padding: 200px;
+    border-radius: 30px;
+    margin-left: 450px;
+    margin-top: 50px;
 }
 
 input{
@@ -21,6 +24,7 @@ input{
     grid-template-columns: repeat(4, 77px);
     row-gap: 10px;
     column-gap: 10px;
+    margin-right: 18px;
 }
 .button1 button{
     height: 70px;
@@ -45,8 +49,7 @@ input{
 }
 .button2 .equals{
     width: 155px;
-    background: #ed4632;
+    background: palegoldenrod;
     font-size: 40px;
-    color: whitesmoke;
-    box-shadow : blue;
+    color: black;
 }
